@@ -1,0 +1,52 @@
+.app-2CXKsg {
+    display: transparent;
+    opacity: 0.75;
+  }
+  
+  #app-mount {
+    background-image: var(--bg) !important;
+    background-repeat: none;
+    background-position: center;
+  }
+  
+  :root {
+    /* 
+    https://www.reddit.com/r/oneshot/comments/ghzwj1/made_my_own_version_of_the_wallpaper_from_the/ 
+    */
+    --bg: url(https://i.redd.it/ny0uggux78y41.png);
+      --background-primary: #111111;
+    --background-secondary: #202020;
+    --background-secondary-alt: #111111;
+    --background-tertiary: #212121;
+    --background-message-hover: #222222;
+      
+  }
+  
+  .peopleColumn-1wMU14, .resultsGroup-1BPR25, .listing-gF29cM {
+    background-color: var(--background-primary) !important;
+  }
+  
+  .scrollableContainer-15eg7h {
+    background-color: var(--background-tertiary)
+  }
+  
+  .button-y6hemj {
+    right: 15px;
+  }
+  
+  .buttons-uaqb-5 {
+    position: relative;
+    left: 15px;
+  }
+  
+  .button-y6hemj:not([disabled]) > div > div > svg {
+    color: #918C94 !important;
+  }
+  
+  .button-y6hemj:hover:not([disabled]) > div > div > svg {
+    color: #ACA5AC !important;
+  }
+  
+  .separator-3ng7S5:before {
+    visibility: hidden;
+  }
