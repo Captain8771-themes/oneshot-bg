@@ -1,5 +1,5 @@
 # OneShot-BG
-OneShot-BG is theme for [Powercord](https://powercord.dev/) which brings [this](https://www.reddit.com/r/oneshot/comments/ghzwj1/made_my_own_version_of_the_wallpaper_from_the/) oneshot background to discord.
+OneShot-BG is theme for [Powercord](https://powercord.dev/) and [BetterDiscord](https://betterdiscord.app) which brings [this](https://www.reddit.com/r/oneshot/comments/ghzwj1/made_my_own_version_of_the_wallpaper_from_the/) oneshot background to discord.
 
 
 it is possible to change the background by doing the following:
